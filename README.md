@@ -33,6 +33,8 @@ A Python-based password generator application built with Tkinter. This app allow
    ```bash
    python password_generator_app.py
 
+### License:
+This project is open source and available under the MIT License.
 
 ### Instructions:
 - Replace `yourusername` with your actual GitHub username in the clone URL.
