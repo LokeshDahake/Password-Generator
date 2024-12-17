@@ -24,10 +24,12 @@ A Python-based password generator application built with Tkinter. This app allow
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/password-generator-app.git
+
 2. Navigate to the project folder:
 ```bash
 cd password-generator-app
-4. RUN app
+
+3. RUN app
 ```bash
   python password_generator_app.py
 
